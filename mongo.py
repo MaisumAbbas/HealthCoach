@@ -127,7 +127,7 @@ def sendEmail():
         smtp_server = "smtp.gmail.com"
         sender_email = "coachhealth43@gmail.com"  # Enter your address
         receiver_email = request.get_json()['email'] # Enter receiver address
-        password = "health1234"
+        password = "your_pass"
         message = """\
         Subject: Forgotten Password
 
@@ -148,7 +148,7 @@ def sendWarning():
         sender_email = "coachhealth43@gmail.com"  # Enter your address
         receiver_email = request.get_json()['user'] # Enter receiver address
         cat = request.get_json()['type'] 
-        password = "health1234"
+        password = "your_pass"
         if (cat == "other"):
             message = """\
             Subject: Issue With Remedy
@@ -301,7 +301,7 @@ def answer_query():
         smtp_server = "smtp.gmail.com"
         sender_email = "coachhealth43@gmail.com"  # Enter your address
         receiver_email = request.get_json()['email'] # Enter receiver address
-        password = "health1234"
+        password = "your_pass"
         ans = request.get_json()['ans']
         context = ssl.create_default_context()
         with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
