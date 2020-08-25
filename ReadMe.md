@@ -2,8 +2,6 @@
 
 Health Coach is a web app based on Angular 6 (Frontend), Python (Flask/Backend), and Mongo Db. The project caters to the problem of neglecting health issues. The main module of this project includes disease prediction that uses an algorithm of machine learning i.e. Apriori algorithm along with data mining technique. This project also makes use of data visualization using d3 to recommend medicines based on past diagnosis along with some other basic modules that can help provide medical assistance.
 
-Health Coach is a web app based on Angular 6 (Frontend), Python (Flask/Backend), and Mongo Db. The project caters to the problem of neglecting health issues.
-
 The main module of this project includes disease prediction that uses an algorithm of machine learning i.e. Apriori algorithm along with data mining technique. This project also makes use of data visualization using d3 to recommend medicines based on past diagnosis along with some other basic modules that can help provide medical assistance.
 
 <h2>Modules with Description</h2>
