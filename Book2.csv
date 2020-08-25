@@ -1,0 +1,327 @@
+Hunger,Sleeping Problems in Babies
+Less Sleep,"Sleeping Problems in Babies, Difficulty in Sleeping"
+Too Hot or Cold,Sleeping Problems in Babies
+Wind,Excessive Crying
+Thirst,Excessive Crying
+Gastro-oesophaegal Reflux,"Excessive Crying, Vomiting in Babies, Feeding Problems, Coughing, Chest Pain, Difficulty in Swallowing, Recurrent Vomiting,  Abdominal Pain, Recurrent Abdominal Pain, Wind, Nausea and Vomiting in Pregnancy, Abdominal Pain in Pregnancy"
+Colic,"Excessive Crying, Fever in Babies"
+Teething,"Fever in Babies, Fever in Children, Painful or Irritated Ear, Earache"
+Viral or Bacterial Function,"Fever in Babies, Vomiting in Babies, Coughing, Breathing Problems"
+Bronchiolitis,Excessive Crying
+Cold,"Fever in Babies, Fever in Children, Runny or Blocked Nose, Sore Throat, Hearing Problems, Earache"
+Overheating,"Fever in Babies, Fever in Children, Feeling Faint and Passing Out"
+Meningitis,"Fever in Babies, Vomiting in Babies, Skin Problem in Babies, Fever in Children, Rash with Fever, Headache, Confusion or Drowsiness, Vomiting in Children, Fever, Painful or Stiff Neck"
+Gasteroenteritis,"Fever in Babies, Vomiting in Babies, Diarrhoea in Babies, Fever in Children, Vomiting in Children, Abdominal Pain, Diarrhoea in Children, Abnormal-looking Faeces, Vomiting, Diarrhoea"
+Pyloric Stenosis,Vomiting in Babies
+Regurgitation,Vomiting in Babies
+Intussusception,Vomiting in Babies
+Travel Sickness,"Vomiting in Babies, Vomiting in Children"
+Natural Sugars,Diarrhoea in Babies
+Sugar Indigestion,Diarrhoea in Babies
+Lactose Intolerance,"Diarrhoea in Babies, Abdominal Pain, Diarrhoea in Children, Wind"
+Cystic Fibrosis,"Diarrhoea in Babies, Growth Problems, Diarrhoea in Children"
+Let Down Reflex,Feeding Problems
+Seborrhoeic Dermatitis,"Skin Problems in Babies, Skin Problems in Children, Hair, Scalp and Nail Problems, Painful or Irritated Ear, Skin Problems Affecting the Face"
+Atopic Eczema,"Skin Problems in Babies, Skin Problems in Children, General Skin Problems"
+Nappy Rash,"Skin Problems in Babies, Urinary Problems"
+Oral Thrush,"Skin Problems in Babies, Mouth Problems"
+Measles,"Feeling Generally Unwell, Fever in Babies, Rash with Fever, Coughing, General Skin Problems"
+Urinary Tract Infection,"Feeling Generally Unwell, Sleeping Problems in Children, Fever in Children, Confusion or Drowsiness, Vomiting in Children, Abdominal Pain, Urinary Problems, Toilet-training Problems, Recurrent Abdominal Pain, Testes and Scrotum Problems, Abdominal Pain in Pregnancy"
+Diabetes Mellitus,"Feeling Generally Well, Confusion or Drowsiness, Tiredness, Growth Problems, Vomiting in Children, Urinary Problems, Adolescent Weight Problems, Loss of Weight, General Urinary Problems, Genital Irritaion"
+Sore Mouth or Throat,Feeling Generally Unwell
+Anxiety,"Feeling Generally Unwell, Tireness, Sleeping Problems in Children, Constipation, Headache, Sleeping Problems in Babies, Speech Difficulties, Behavior Problems, School Difficulties, Breathing Problems, Eating Problems, Abdominal Pain, Diarrhoea in Children, Constipation, Adolescent Behavior Problems, Feeling Unwell, Anxiety, Palpitations, Difficulty in Swallowing, General Urinary Problems, Erection Difficulties, Ejaculation Problems, Low Sex Drive in Men, Painful Intercourse in Women, Low Sex Drive in Women"
+Anaemia,"Tiredness, Dizziness, Fainting and Seizures, Feeling Faint and Passing Out, Shortness of Breath, Palpitations, Heavy Periods"
+Chronic Fatigue Syndrome,Tiredness
+Asthma,"Tiredness, Sleeping Problems in Children, Coughing, Breathing Problems, Overweight, Difficulty in Sleeping, Wheezing"
+Eczema,"Tiredness, Sleeping Problems in Children, Painful or Irritated Ear, Breast Problems"
+Sleepwalking,Sleeping Problems in Children
+Nightmares,Sleeping Problems in Children
+Inability to Absorb Nutrients,Growth Problems
+Overweight,Growth Problems
+Fluid Retention,"Excessive Weight Gain, Swollen Abdomen"
+Overeating,Excessive Weight Gain
+Croup,"Fever in Children, Breathing Problems"
+Pneumonia,"Fever in Children, Fever in Babies, Confusion or Drowsiness, Coughing, Breathing Problems, Fever, Shortness of Breath, Chest Pain"
+Pharyngitis or Tonsillitis,"Fever in Children, Lumps and Swellings, Sore Throat"
+"Hand, Foot and Mouth Disease","Rash with Fever, Mouth Problems"
+Scarlet Fever,"Rash with Fever, Sore Throat"
+Rubella,"Rash with Fever, Hearing Problems, Lumps and Swellings"
+Kawasaki Disease,Rash with Fever
+Roseola Infantum,Rash with Fever
+Erythema Infectiosum,Rash with Fever
+Urticaria,"Skin Problems in Children, General Skin Problems"
+Insect Bites," Skin Problems in Children, Lumps and Swellings"
+Ringworm,"Skin Problems in Children, Hair, Scalp and Nail Problems, Hair and Scalp Problems, General Skin Problems"
+Scabies,"Skin Problems in Children, Itching, General Skin Problems"
+Impetigo,"Skin Problems in Children, Mouth Problems"
+Warts,"Skin Problems in Children, Foot Problems, Skin Changes in Pregnancy"
+Molluscum Contagiosum,Skin Problems in Children
+Acne,"Skin Problems in Children, Adolescent Skin Problems, Skin Problems Affecting the Face, Skin Changes in Pregnancy"
+Alopecia Areata,"Hair, Scalp and Nail Problems, Hair and Scalp Problems"
+Lice Infestation,"Hair, Scalp and Nail Problems, Hair and Scalp Problems"
+Nail Biting,"Hair, Scalp and Nail Problems"
+Ingrowing Toenail,"Hair, Scalp and Nail Problems, Foot Problems, Nail Problems"
+Fungal Infection,"Hair, Scalp and Nail Problems, Genital Problems in Boys, Itching, Nail Problems, Mouth Problems"
+Acute Paronychia,"Hair, Scalp and Nail Problems, Nail Problems"
+Threadworms,"Itching, Genital Problems in Girls, Anal Problems"
+Dry Skin,Itching
+Sensitivity,"Itching, Teeth Problems, Genital Problems in Girls, General Urinary Problems"
+Glandular Fever,"Lumps and swellings, Sore Throat, Limping"
+Umbilical Hernia,Lumps and swellings
+Boil,"Lumps and swellings, Eye Problems, Painful or Irritated Ear, Earache"
+Epilepsy,"Dizziness, Fainting and Seizures, Confusion or Drowsiness"
+Breath-holding Attack,"Dizziness, Fainting and Seizures"
+Hypoglycemia,"Dizziness, Fainting and Seizures"
+Febrile Convulsion,"Dizziness, Fainting and Seizures"
+Puberty,"Dizziness, Fainting and Seizures, Genital Problems in Girls, Problems with Puberty in Boys, Problems with Puberty in Girls"
+Labyrinthitis,"Dizziness, Fainting and Seizures, Dizziness, Vomiting"
+Serious Brain Disorder,Headache
+Migraine,"Headache, Disturbed or Impaired Vision, Abdominal Pain, Painful or Irritated Eye, Recurrent Vomiting, Nausea and Vomiting in Pregnancy"
+Sinusitis,"Headache, Teeth Problems, Pain in the Face, Runny or Blocked Nose"
+Alcohol Poisoning,Confusion or Drowsiness
+Head Injury,"Confusion or Drowsiness, Disturbed or Impaired Vision, Vomiting in Children"
+Heatstroke,Confusion or Drowsiness
+Dehydration,"Confusion or Drowsiness, Eating Problems"
+Dyspraxia,Clumsiness
+Serious Nervous System Disorder,Clumsiness
+Hearing Problem,Speech Difficulties
+Autism,Behavior Problems
+Depression,"Behavior Problems, Tiredness, Adolescent Behavior Problems, Loss of Weight, Forgetfulness or Confusion, Disturbing Thoughts and Feelings, Depression, Low Sex Drive in Women"
+Attention Deficit Hyperactivity Disorder,Behavior Problems
+Physical Problem,School Difficulties
+Parental Separation,School Difficulties
+Attention Deficit Hyperactivity Disorder,Behavior Problems
+Dyslexia,School Difficulties
+Bullying,School Difficulties
+Foreign Body,"Eye Problems, Runny or Blocked Nose, Painful or Irritated Ear, Hearing Problems, Coughing, Breathing Problems, Genital Problems in Girls, Foot Problems, Painful or Irritated Eye, Difficulty in Swallowing, Abnormal Vaginal Discharge"
+Bacterial Conjunctivitis,"Eye Problems, Disturbed or Impaired Vision, Painful or Irritated Eye"
+Nonbacterial Conjunctivitis,Eye Problems
+Iritis,"Eye Problems, Disturbed or Impaired Vision, Painful or Irritated Eye"
+Blepharitis,"Eye Problems, Painful or Irritated Eye"
+Stye,"Eye Problems, Painful or Irritated Eye"
+Blocked Tear Duct,Eye Problems
+Squint,Disturbed or Impaired Vision
+Severe Focusing Disorder,Disturbed or Impaired Vision
+Weak Eyesight,Disturbed or Impaired Vision
+Barotrauma,"Painful or Irritated Ear, Hearing Problems, Noises in the Ear, Earache"
+Hay Fever,"Hearing Problems, Runny or Blocked Nose"
+Chronic Secretory Otitis Media,Hearing Problems
+Adenoids,"Runny or Blocked Nose, Coughing"
+Pertussis,"Coughing, Vomiting in Children"
+Smoky Atmospheres and Smoking,Coughing
+Perennial Allergic Rhinitis,"Coughing, Teeth Problems, Fertility Problems in Men"
+Epiglottitis,Breathing Problems
+Cold Sores,"Mouth Problems, Skin Problems Affecting the Face"
+Lick Eczema,Mouth Problems
+Errupting Tooth,Mouth Problems
+Gingivitis,"Mouth Problems, Teeth Problems"
+Mouth Ulcers,Mouth Problems
+Herpes Simplex Virus,"Mouth Problems, Skin Problems Affecting the Face"
+New or Jagged Tooth,Mouth Problems
+Dental Abscess,Teeth Problems
+Tooth Decay,Teeth Problems
+Intestinal Disorder,Eating Problems
+Appendicitis,"Vomiting in Children, Abdominal Pain, Vomiting"
+Intestinal Obstruction,"Vomiting in Children, Constipation, Abdominal Pain"
+Hepatitis,Vomiting in Children
+Hernia,"Abdominal Pain, Lumps and Swellings, Genital Problems in Boys, Recurrent Abdominal Pain"
+Swollen Lymph Nodes,"Abdominal Pain, Limping"
+Stress,"Abdominal Pain, Genital Problems in Boys, Overweight, Depression, Anxiety, Skin Problems Affecting the Face, Low Sex Drive in Men, Absent Periods, Low Sex Drive in Women"
+Digestive Tract Infection,"Diarrhoea in Children, Abnormal-looking Faeces, Loss of Weight"
+Ulcerative Colitis,"Diarrhoea in Children, Recurent Abdominal Pain, Diarrhoea, Abnormal-looking Faeces"
+Chronic Constipation,Diarrhoea in Children
+Toddler Diarrhoea,Diarrhoea in Children
+Anal Fissure,"Constipation, Abnormal-looking Faeces, Anal Problems"
+Fat Absorption Failure,Abnormal-looking Faeces
+Phimosis,"Urinary Problems, Genital Problems in Boys, Problems with the Penis, Painful Intercourse in Men"
+Severe Constipation or Local Soreness,Urinary Problems
+Torsion of the Testis,"Genital Problems in Boys, Abdominal Pain, Testes and Scrotum Problems"
+Hydrocele,"Genital Problems in Boys, Testes and Scrotum Problems"
+Balanitis,"Genital Problems in Boys, Problems with the Penis"
+Vaginal Thrush,Genital Problems in Girls
+Dislocation of a Joint,Painful Arm or Leg
+Minor Sprain,"Painful Arm or Leg, Joint and Back Problems, Foot Problems"
+Flu,"Painful Arm or Leg, Fever, Sore Throat"
+Infection of the Bone or the Tissue,Painful Arm or Leg
+Fracture,"oint and Back Problems, Painful Arm or Leg, Teeth Problems, Foot Problems, Painful Joints, Painful Arm, Painful Leg, Painful Knee"
+Septic Arthritis,Joint and Back Problems
+Hip-Joint Problem,Joint and Back Problems
+Henoch-Schonlein Purpura,Joint and Back Problems
+Systemic Juvenile Arthritis,Joint and Back Problems
+Reactive Arthritis,"Joint and Back Problems, Painful Joints"
+Juvenile Chronic Arthritis,Joint and Back Problems
+Bone Disorder,Joint and Back Problems
+Scoliosis,Joint and Back Problems
+Verruca,Foot Problems
+Plantar Fasciitis,Foot Problems
+Calluses,Foot Problems
+Athlete's Foot,Foot Problems
+Gout,"Foot Problems, Painful Joints, Painful Knee"
+Bunion,Foot Problems
+Irritable Hip,Limping
+Perthes' Disease,Limping
+Slipped Femoral Epiphysis,Limping
+Anorexia or Bulimia,Adolescent Weight Problems
+Greasy Skin,Adolescent Skin Problems
+Tiredness,Feeling Unwell
+Excessive Alcohol Consumption,"Feeling Unwell, Difficulty in Sleeping, Excessive Sweating, Forgetfulness or Confusion, Erection Difficulties, Fertility Problems in Men"
+Hyperthyroidism,"Loss of Weight, Excessive Sweating, Twitching or Trembling Problems, Anxiety, Palpitations"
+Tuberculosis,"Loss of Weight, Fever, Excessive Sweating, Coughing"
+Overeating,"Overweight, Recurrent Abdominal Pain"
+Withdrawal of Tobacco,Overweight
+Caffeine,"Difficulty in Sleeping, Twitching or Trembling, Palpitations"
+Acute Bronchitis,"Fever, Wheezing, Coughing, Chest Pain"
+Pyelonephritis,"Fever, Abdominal Pain, Painful Urination, Back Pain, Nausea and Vomiting in Pregnancy, Back Pain in Pregnancy"
+Tropical Disease,Fever
+Pelvic Inflammatory Disease,"Fever, Painful Periods, Abnormal Vaginal Discharge, Lower Abdominal Pain in Women"
+Overweight,Excessive Sweating
+Sweat Glands,Excessive Sweating
+Hot Flushes,Excessive Sweating
+Subarachnoid Haemorrhage,Headache
+Acute Glaucoma,"Headache, Vomiting"
+Temporal Arteritis,"Headache, Pain in the Face"
+Postural Hypotension,Feeling Faint and Passing Out
+Heart Problems,Feeling Faint and Passing Out
+Transient Ischaemic Attack,"Dizziness, Feeling Faint and Passing Out, Numbness or Tingling, Forgetfulness or Confusion, Difficulty in Speaking"
+Meniere's Disease,"Dizziness, Hearing Problems, Noises in the Ear"
+Cervical Spondylosis,"Dizziness, Feeling Faint and Passing Out, Numbness or Tingling, Painful or Stiff Neck"
+Raynaud's Phenomenon,Numbness or Tingling
+Stroke,"Dizziness, Numbness or Tingling, Feeling Faint and Passing Out, Forgetfulness or Confusion, Difficulty in Speaking"
+Carpal Tunnel Syndrome,"Numbness or Tingling, Painful Arm"
+High Fever,Forgetfulness or Confusion
+Dementia,Forgetfulness or Confusion
+Parkinson's Disease,Twitching or Trembling
+Withdrawal of Alcohol,Twitching or Trembling
+Shingles,"Pain in the Face, General Skin Problems, Skin Problems Affecting the Face, Rash with Fever, Chest Pain"
+Trigeminal Neuralgia,Pain in the Face
+Temporomandibular Joint Problem,"Pain in the Face, Teeth Problems"
+Hypothyroidism,"Tiredness, Overweight, Hair and Scalp Problems, Hoarseness or Loss of Voice, Constipation"
+Facial Nerve Infection,Difficulty in Speaking
+Obsessive-Compulsive Disorder,"Disturbing Thoughts and Feelings, Anxiety"
+Post-traumatic Stress Disorder,Disturbing Thoughts and Feelings
+Premenstrual Syndrome,"Depression, Swollen Abdomen, Breast Problems"
+Panic Attack,"Anxiety, Shortness of Breath"
+Phobia,Anxiety
+Salivary Gland,Lumps and Swellings
+Jaundice,"Itching, Recurrent Vomiting, Abnormal-looking Faeces"
+Dandruff,Hair and Scalp Problems
+Male-pattern Baldness,Hair and Scalp Problems
+Psoriasis,"General Skin Problems, Hair, Scalp and Nail Problems, Nail Problems"
+Lyme Disease,General Skin Problems
+Hand Eczema,General Skin Problems
+Hives,General Skin Problems
+Allergic Contact Dermatitis,General Skin Problems
+Perioral Dermatitis,Skin Problems Affecting the Face
+Rosacea,Skin Problems Affecting the Face
+Erysipelas,Skin Problems Affecting the Face
+Squamous Cell Carcinoma,Skin Problems Affecting the Face
+Basal Cell Carcinoma,Skin Problems Affecting the Face
+Melignant Melanoma,Skin Discoloration and Moles
+Seborrhoeic Warts,Skin Discoloration and Moles
+Chloasma,"Skin Discoloration and Moles, Skin Changes in Pregnancy"
+Halo Naevus,Skin Discoloration and Moles
+Vitiligo,Skin Discoloration and Moles
+Pityriasis Versicolor,Skin Discoloration and Moles
+Purpura,Rash with Fever
+Chronic Paronychia,Nail Problems
+Clubbing,Nail Problems
+Glaucoma,"Painful or Irritated Eye, Disturbed or Impaired Vision"
+Orbital Cellulitis,Painful or Irritated Eye
+Dry Eye,Painful or Irritated Eye
+Entropion,Painful or Irritated Eye
+Retinal Detachment,Disturbed or Impaired Vision
+Multiple Sclerosis,Disturbed or Impaired Vision
+Diabetic Retinopathy,Disturbed or Impaired Vision
+Presbyopia,Disturbed or Impaired Vision
+Cataract,Disturbed or Impaired Vision
+Presbycusis,Hearing Problems
+Wax Blockage,"Hearing Problems, Earache"
+Otosclerosis,Hearing Problems
+Exposure to Loud Noise,"Noises in the Ear, Hearing Problems"
+Nasal Polyp,Runny or Blocked Nose
+Laryngitis,Hoarseness or Loss of Voice
+Chronic Laryngitis,Hoarseness or Loss of Voice
+Pulmonary Oedema,"Wheezing, Shortness of Breath"
+Chronic Onstructive Pulmonary Disease,"Wheezing, Coughing, Shortness of Breath"
+Pulmonary Embolism,"Shortness of Breath, Chest Pain"
+Pneumoconiosis,Shortness of Breath
+Drugs,"Diarrhoea in Babies, Tiredness, Sleeping Problems in Children, Excessive Weight Gain, Skin Problems in Children, Hair, Scalp and Nail Problems, Dizziness, Fainting and Seizures, Headache, Confusion or Drowsiness, Clumsiness, Behavior Problems, Disturbed or Impaired Vision, Diarrhoea in Children, Constipation, Abnormal-looking Faeces, Urinary Problems, Adolescent Behavior Problems, Feeling Unwell, Tiredness, Overweight, Difficulty in Sleeping, Feeling Faint and Passing Out, Forgetfulness or Confusion, Twitching or Trembling, Difficulty in Speaking, Disturbing Thoughts and Feelings, Depression, Anxiety, Itching, Hair and Scalp Problems, Hearing Problems, Noises in the Ear, Sore Throat, Coughing, Palpitations, Mouth Problems, Vomiting, Recurrent Vomitng, Diarrhoea, Swollen Ankles, Bladder Control Problems in Men, Erection Difficulties, Ejaculation Problems, Low Sex Drive in Men, Fertility Probems in Men, Blader Control Problems in Women, Low Sex Drive in Women, Fertility Problems in Women, Abdominal Pain in Pregnancy, Heavy Periods"
+Pleurisy,Chest Pain
+Ectopic Beats,Palpitations
+Stomatitis,Mouth Problems
+Aphthous Ulcers,Mouth Problems
+Gastritis,Vomiting
+Food Poisoning,"Mouth Problems, Abdominal Pain, Diarrhoea"
+Morning Sickness,"Recurrent Vomiting, Nausea and Vomiting in Pregnancy"
+"Duodenum""","Recurrent Vomiting, Recurrent Abdominal Pain"
+Gallstones,"Recurrent Vomiting, Abdominal Pain, Recurrent Abdominal Pain"
+Tumour,"Recurrent Vomiting, Recurrent Abdominal Pain"
+Chronic Gastritis,"Recurrent Vomiting, Abdominal Pain, Recurrent Abdominal Pain"
+Cystitis,"Abdominal Pain, Painful Urination"
+Irritable Bowel Syndrome,"Recurrent Abdominal Pain, Wind, Diarrhoea, Constipation"
+Malabsorption,"Wind, Abnormal-looking Faeces"
+Haemorrhoids,"Abnormal-looking Faeces, Anal Problems"
+Stomach Ulcer,Abnormal-looking Faeces
+Abscess,Anal Problems
+Anal Warts,Anal Problems
+Genital Herpes,"General Urinary Problems, Problems with the Penis, Genital Irritation"
+Prostatitis,"General Urinary Problems, Problems with the Penis, Ejaculation Problems, Painful Intercourse in Men"
+Vulval or Vaginal Infection,"General Urinary Problems, Urinary Problems, Painful Intercourse in Women"
+Tendititis,"Painful Joints, Painful Shoulder, Painful Arm"
+Osteoarthritis,"Painful Joints, Painful Knee, Back Pain, Painful or Stiff Neck"
+Frozen Shoulder,Painful Shoulder
+Polymyalgia Rheumatica,Painful Shoulder
+Tennis or Golfer's Elbow,Painful Arm
+Thrombophlebitis,Painful Leg
+Deep Vein Thrombosis,"Painful Leg, Swollen Ankels, Swollen Ankles in Pregnancy"
+Muscle Cramps,Painful Leg
+Sciatica,"Painful Leg, Back Pain in Pregnancy"
+Varicose Veins,"Painful Leg, Swollen Ankels, Swollen Ankles in Pregnancy"
+Torn Cartilage,Painful Knee
+Gravity,Painful Knee
+Thrombophlebitis,Painful Knee
+Ankylosing Spondylitis,Back Pain
+Torticollis,Painful or Stiff Neck
+Enlarged Prostate Gland,"Bladder Control Problems in Men, General Urinary Problems"
+Priapism,Problems with the Penis
+Sexually Transmitted Infections,"Problems with the Penis, Ejaculation Problems, Painful Intercourse in Men, Fertility Problems in Men"
+Genital Warts,Problems with the Penis
+Syphilis,Problems with the Penis
+Lack of Sexual Desire,"Erection Difficulties, Low Sex Drive in Men"
+Natural Aging Process,"Problems with the Penis, Low Sex Drive in Men, Low Sex Drive in Women"
+Epididymal Cysts,Testes and Scrotum Problems
+Peyronie's Disease,Painful Intercourse in Men
+Allergic to Spermicide or Condom,Painful Intercourse in Men
+Mumps Virus,Fertitlity Problems in Men
+Breast Pain,Breast Problems
+Mastitis,"Breast Problems, Breast Problems and Preganancy"
+Fibroadenoma,Breast Problems
+Nipple Discharge,Breast Problems
+Enlarged Uterus,Bladder Control Problems in Women
+Irritable Bladder,Bladder Control Problems in Women
+Childbirth,"Absent Periods, Bladder Control Problems in Women"
+Progestogen Intrauterine Contraceptive Device,"Absent Periods, Heavy Periods, Painful Periods, Lower Abdominal Pain in Women"
+Chemotheraphy and Radiotheraphy,"Absent Periods, Fertitlity Problems in Women"
+Menopause,"Absent Periods, Heavy Periods, Irregular Vaginal Bleeding, Genital Problems, Painful Intercourse in Women"
+Polycystic Ovary Syndrome,"Absent Periods, Fertitlity Problems in Women"
+Miscarriage,"Heavy Periods, Painful Periods, Irregular Vaginal Bleeding, Lower Abdominal Pain in Women, Vaginal Bleeding in Pregnancy, Abdominal Pain in Pregnancy, Back Pain in Pregnancy"
+Endometriosis,"Heavy Periods, Painful Periods, Lower Abdominal Pain in Women, Painful Intercourse in Women, Fertiltiy Problems in Women"
+Cervical Ectropion,Irregular Vaginal Bleeding
+Trichomonal Infection,Abnormal Vaginal Discharge
+Vaginal Thrush,"Abnormal Vaginal Discharge, Genital Irritation"
+Menstruation,"Lower Abdominal Pain in Women, Irregular Vaginal Bleeding, Excessive Sweating"
+Ovulation,Lower Abdominal Pain in Women
+Falling Oestrogen Levels,Painful Intercourse in Women
+Soreness of the Vagina,Painful Intercourse in Women
+Ectopic Pregnancy,"Painful Intercourse in Women, Vaginal Bleeding in Pregnancy, Lower Abdominal Pain in Women, Fertility Problems in Women, Abdominal Pain in Pregnancy, Back Pain in Pregnancy"
+Vaginismus,Painful Intercourse in Women
+Hyperemesis,Nausea and Vomiting in Pregnancy
+Placental Abruption,"Vaginal Bleeding in Pregnancy, Abdominal Pain in Pregnancy"
+Polymorphic Eruption of Pregnancy,Skin Changes in Pregnancy
+Pre-eclampsia,Swollen Ankles in Pregnancy
+Inverted Nipples,Breast Problems and Pregnancy
+Tender or Painful Breasts,"Breast Problems and Pregnancy, Breast Problems"
+Breast Engorgement,Breast Problems and Pregnancy
+Galactocele,Breast Problems and Pregnancy
+Postnatal Depression,Depression After Childbirth
+Chickenpox,"Feeling Generally Unwell, Rash with Fever"
