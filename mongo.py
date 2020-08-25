@@ -22,7 +22,7 @@ from apyori import apriori
 app = Flask(__name__)
 
 app.config['MONGO_DBNAME'] = 'healthcoach'
-app.config['MONGO_URI'] = 'mongodb://hcAdmin:hc_FYP1@ds155699.mlab.com:55699/healthcoach'
+app.config['MONGO_URI'] = 'Your_MONGO_DB_URI'
 app.config['JWT_SECRET_KEY'] = 'secret'
 
 mongo = PyMongo(app)
